@@ -1,0 +1,17 @@
+{
+  "name": "aufgabe1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "send": "nodemon ./send.js",
+    "receive": "node ./receive.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "nodemon": "^3.0.1"
+  },
+  "description": ""
+}
