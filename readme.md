@@ -10,3 +10,6 @@ WebSocket starten
 
 Smart WebSocket Browser offnen und folgenden connection aufbauen:
 `ws://localhost:3000/`
+
+Folgenden Link öffnen:
+http://localhost:3000/
